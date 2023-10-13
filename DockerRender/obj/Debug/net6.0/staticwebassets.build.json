@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/JosZkeoPbxip1nJ0H2X2DUi7kLQIEkBVsAXPJdEMUw=",
+  "Source": "DockerRender",
+  "BasePath": "_content/DockerRender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
